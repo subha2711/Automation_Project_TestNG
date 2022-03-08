@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10371" started-at="2022-03-02T13:09:21 CST" finished-at="2022-03-02T13:09:31 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10371" started-at="2022-03-02T13:09:21 CST" finished-at="2022-03-02T13:09:31 CST">
+      <class name="test.AddingCategoryTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:test.AddingCategoryTest@2833cc44]" name="launchBrowser" is-config="true" duration-ms="2586" started-at="2022-03-02T13:09:21 CST" finished-at="2022-03-02T13:09:23 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="validateUserIsableToAddCategoryAndItisDisplayed()[pri:1, instance:test.AddingCategoryTest@2833cc44]" name="validateUserIsableToAddCategoryAndItisDisplayed" duration-ms="574" started-at="2022-03-02T13:09:23 CST" finished-at="2022-03-02T13:09:24 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserIsableToAddCategoryAndItisDisplayed -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test.AddingCategoryTest@2833cc44]" name="closeBrowser" is-config="true" duration-ms="662" started-at="2022-03-02T13:09:24 CST" finished-at="2022-03-02T13:09:24 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:test.AddingCategoryTest@2833cc44]" name="launchBrowser" is-config="true" duration-ms="1821" started-at="2022-03-02T13:09:24 CST" finished-at="2022-03-02T13:09:26 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="validAddCategoryAlreadyExists()[pri:2, instance:test.AddingCategoryTest@2833cc44]" name="validAddCategoryAlreadyExists" duration-ms="1277" started-at="2022-03-02T13:09:26 CST" finished-at="2022-03-02T13:09:28 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validAddCategoryAlreadyExists -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test.AddingCategoryTest@2833cc44]" name="closeBrowser" is-config="true" duration-ms="669" started-at="2022-03-02T13:09:28 CST" finished-at="2022-03-02T13:09:28 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:test.AddingCategoryTest@2833cc44]" name="launchBrowser" is-config="true" duration-ms="1815" started-at="2022-03-02T13:09:28 CST" finished-at="2022-03-02T13:09:30 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="validateAllOptionsFromMonthDropDown()[pri:3, instance:test.AddingCategoryTest@2833cc44]" name="validateAllOptionsFromMonthDropDown" duration-ms="241" started-at="2022-03-02T13:09:30 CST" finished-at="2022-03-02T13:09:30 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAllOptionsFromMonthDropDown -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test.AddingCategoryTest@2833cc44]" name="closeBrowser" is-config="true" duration-ms="675" started-at="2022-03-02T13:09:30 CST" finished-at="2022-03-02T13:09:31 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.AddingCategoryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
